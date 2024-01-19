@@ -1,4 +1,4 @@
-#include "CADASTRO.h"
+#include "cadastro.h"
 
 int main()
 {
