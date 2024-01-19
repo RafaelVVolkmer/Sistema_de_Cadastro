@@ -1,7 +1,7 @@
 #ifndef CADASTRO_H_INCLUDED
 #define CADASTRO_H_INCLUDED
 
-#include "USUARIO.h"
+#include "usuario.h"
 
 class OpcoesMenu
 {
